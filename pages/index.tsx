@@ -1,4 +1,3 @@
-
 import Link from 'next/link'
 import { MainLayout } from '../components/layouts/MainLayout'
 
